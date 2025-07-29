@@ -1,0 +1,1602 @@
+.maindiv {
+  position: relative;
+  background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+  border-radius: 20px;
+  width: 80%;
+  height: 420px;
+  left: 10%;
+  top: 6px;
+}
+.elipsesetting {
+  position: relative;
+  right: 40%;
+  margin-top: 29%;
+  width: 80%;
+}
+.elipsesetting1 {
+  position: absolute;
+  right: 75%;
+  margin-top: 25%;
+  width: 55%;
+} 
+.vaservice {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 55px;
+  text-align: center;
+
+  color: #00235a;
+}
+@media screen and (max-width: 768px) {
+  .vaservice {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 650;
+    font-size: 35px;
+    line-height: 45px;
+    text-align: center;
+    color: #00235a;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .vaservice {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+    color: #00235a;
+  }
+}
+
+/* @media screen and (max-width: 2560px) {
+  .maindiv {
+    background: #eeeeee;
+    border-radius: 20px;
+    width: 80%;
+    height: 420px;
+    left: 10%;
+    top: 6px;
+  }
+  .elipsesetting {
+    position: relative;
+    right: 52%;
+    margin-top: 14%;
+    width: 60%;
+  }
+  .elipsesetting1 {
+    position: absolute;
+    right: 75%;
+    margin-top: 14%;
+    width: 50%;
+  }
+} */
+
+/* @media screen and (max-width: 1660px) {
+    .maindiv{
+        background: #EEEEEE;
+        border-radius: 20px;
+        width: 80%;
+  height: 420px;
+  left: 10%;
+  top: 6px;
+
+    }
+    .elipsesetting{
+        position: relative;
+        right: 50%;
+        margin-top: 5%;
+        width: 60%;
+      }
+      .elipsesetting1{
+        position: absolute;
+        right: 73%;
+        margin-top: 7%;
+        width: 50%;
+        
+      }
+  } */
+@media screen and (max-width: 2560px) {
+  .maindiv {
+    position: relative;
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border-radius: 20px;
+    width: 44%;
+    height: 430px;
+    left: 29%;
+    top: 11px;
+}
+.flip-card-front3 {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #00235a;
+  background: #ffffff;
+  border-radius: 20px;
+}
+.elipsesetting {
+  position: relative;
+  right: 40%;
+  margin-top: 2%;
+  width: 134%;
+}
+  .elipsesetting1 {
+    position: absolute;
+    right: 76%;
+    margin-top: 18%;
+    width: 55%;
+  }
+}
+
+@media screen and (max-width: 2500px) {
+  .maindiv {
+    position: relative;
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border-radius: 20px;
+    width: 60%;
+    height: 430px;
+    left: 22%;
+    top: 6px;
+}
+  .elipsesetting {
+    position: relative;
+    right: 40%;
+    margin-top: 30%;
+    width: 100%;
+  }
+  .elipsesetting1 {
+    position: absolute;
+    right: 75%;
+    margin-top: 42%;
+    width: 55%;
+  }
+}
+@media screen and (max-width: 2500px){
+  .maindiv {
+    position: relative;
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border-radius: 20px;
+    width: 60%;
+    height: 430px;
+    left: 22%;
+    top: 6px;
+}
+}
+@media screen and (max-width: 1440px) {
+  .maindiv {
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border-radius: 20px;
+    width: 80%;
+    height: 400px;
+    left: 14%;
+    top: 6px;
+}
+  .elipsesetting {
+    position: relative;
+    right: 45%;
+    margin-top: 25%;
+    width: 100%;
+  }
+  .elipsesetting1 {
+    position: absolute;
+    right: 72%;
+    margin-top: 40%;
+    width: 60%;
+  }
+}
+@media screen and (max-width: 1540px) {
+  .maindiv {
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border-radius: 20px;
+    width: 80%;
+    height: 400px;
+    left: 14%;
+    top: 6px;
+}
+  .elipsesetting {
+    position: relative;
+    right: 45%;
+    margin-top: 25%;
+    width: 100%;
+  }
+  .elipsesetting1 {
+    position: absolute;
+    right: 72%;
+    margin-top: 40%;
+    width: 60%;
+  }
+}
+@media screen and (max-width: 1280px){
+  .maindiv {
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border-radius: 20px;
+    width: 80%;
+    height: 500px;
+    left: 14%;
+    top: 6px;
+}
+}
+@media screen and (max-width: 1024px) {
+  .maindiv {
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border-radius: 20px;
+    width: 100%;
+    height: 500px;
+    left: 5%;
+    top: 6px;
+}
+.elipsesetting {
+  position: relative;
+  right: 50%;
+  margin-top: 35%;
+  width: 130%;
+}
+  .elipsesetting1 {
+    position: absolute;
+    right: 73%;
+    margin-top: 80%;
+    width: 60%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .maindiv {
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border-radius: 20px;
+    width: 80%;
+    height: 490px;
+    left: 10%;
+    top: 6px;
+  }
+  .elipsesetting {
+    position: relative;
+    right: 51%;
+    margin-top: 100%;
+    width: 160%;
+  }
+  .elipsesetting1 {
+    position: absolute;
+    right: 72%;
+    margin-top: 83%;
+    width: 60%;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .maindiv {
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border-radius: 20px;
+    width: 80%;
+    height: 620px;
+    left: 15%;
+    top: 6px;
+  }
+  .elipsesetting {
+    position: relative;
+    left: 30%;
+    margin-top: 10%;
+    width: 40%;
+  }
+  .elipsesetting1 {
+    position: absolute;
+    right: 34%;
+    margin-top: 10%;
+    width: 33%;
+  }
+  @media screen and (max-width: 376px) {
+    .maindiv {
+      background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+      border-radius: 20px;
+      width: 80%;
+      height: 600px;
+      left: 15%;
+      top: 6px;
+    }
+    .elipsesetting {
+      position: relative;
+      left: 30%;
+      margin-top: 10%;
+      width: 40%;
+    }
+    .elipsesetting1 {
+      position: absolute;
+      right: 34%;
+      margin-top: 10%;
+      width: 33%;
+    }
+  }
+  @media screen and (max-width: 320px) {
+    .maindiv {
+      background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+      border-radius: 20px;
+      width: 80%;
+      height: 550px;
+      left: 15%;
+      top: 6px;
+    }
+    .elipsesetting {
+      position: relative;
+      left: 30%;
+      margin-top: 5%;
+      width: 40%;
+    }
+    .elipsesetting1 {
+      position: absolute;
+      right: 34%;
+      margin-top: 5%;
+      width: 33%;
+    }
+  }
+  /* .flip-card {
+    background-color: transparent;
+    width: 194px;
+    height: 186px;
+    perspective: 1000px;
+    border-radius: 20px;
+  } */
+
+  .cold {
+    text-align: center;
+    margin-top: 0%;
+  }
+}
+
+.flip-card3 {
+  background-color: transparent;
+  width: 155px !important;
+  height: 155px !important;
+  perspective: 1000px;
+  border-radius: 20px;
+  margin-top: 1% !important;
+}
+@media screen and (max-width: 1440px) {
+  .flip-card3 {
+    background-color: transparent;
+    width: 145px !important;
+    height: 145px !important;
+    perspective: 1000px;
+    border-radius: 20px;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .flip-card3 {
+    background-color: transparent;
+    width: 147px !important;
+    height: 142px !important;
+    perspective: 1000px;
+    border-radius: 20px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .flip-card3 {
+    background-color: transparent;
+    width: 123px !important;
+    height: 100px !important;
+    perspective: 1000px;
+    border-radius: 20px;
+  }
+}
+@media screen and (max-width: 426px) {
+  .flip-card3 {
+    background-color: transparent;
+    width: 88px !important;
+    height: 78px !important;
+    perspective: 1000px;
+    border-radius: 20px;
+    margin-left: 13% !important;
+  }
+}
+
+@media screen and (max-width: 376px) {
+  .flip-card3 {
+    background-color: transparent;
+    width: 88px !important;
+    height: 78px !important;
+    perspective: 1000px;
+    border-radius: 20px;
+    margin-left: 3% !important;
+  }
+}
+@media screen and (max-width: 320px) {
+  .flip-card3 {
+    background-color: transparent;
+    width: 77px !important;
+    height: 75px !important;
+    perspective: 1000px;
+    border-radius: 20px !important;
+    margin-left: 0% !important;
+  }
+}
+.flip-card-inner3 {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  top: 8%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+}
+@media screen and (max-width: 376px) {
+  .flip-card-inner3 {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    top: 1%;
+    left: 30%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+  }
+}
+
+@media screen and (max-width: 321px) {
+  .flip-card-inner3 {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    top: 1%;
+    left: 21%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+  }
+}
+
+.flip-card3:hover .flip-card-inner3 {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front3,
+.flip-card-back3 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  border-radius: 20px;
+}
+
+.flip-card-front3 {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #00235a;
+  background: #ffffff;
+  border-radius: 20px;
+}
+@media screen and (max-width: 1024px) {
+  .flip-card-front3 {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    text-align: center;
+    color: #00235a;
+    background: #ffffff;
+    border-radius: 20px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .flip-card-front3 {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 250;
+    font-size: 10px;
+    line-height: 14px;
+    /* identical to box height */
+    text-align: center;
+    color: #00235a;
+    background: #ffffff;
+    border-radius: 20px;
+  }
+}
+@media screen and (max-width: 426px) {
+  .flip-card-front3 {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 200;
+    font-size: 8px;
+    line-height: 9px;
+    /* identical to box height */
+    text-align: center;
+    color: #00235a;
+    background: #ffffff;
+    border-radius: 20px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .flip-card-front3 {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 200;
+    font-size: 7px;
+    line-height: 7px;
+    /* identical to box height */
+    text-align: center;
+    color: #00235a;
+    background: #ffffff;
+    border-radius: 20px;
+  }
+}
+.flip-card-back3 {
+  background: linear-gradient(180deg, #FF5000 0%, #FFA800 85.76%);
+  border-radius: 20px;
+  color: white;
+  transform: rotateY(180deg);
+}
+
+.detail {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 40%;
+}
+.elipseforgreen {
+  position: relative;
+}
+.greenarrow {
+  position: absolute;
+  left: 42%;
+  margin-top: 4%;
+}
+@media screen and (max-width: 1440px) {
+  .detail {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 20px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 40%;
+  }
+  .elipseforgreen {
+    position: relative;
+  }
+  .greenarrow {
+    position: absolute;
+    left: 40%;
+    margin-top: 6%;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .detail {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 20px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 30%;
+  }
+  .elipseforgreen {
+    position: relative;
+  }
+  .greenarrow {
+    position: absolute;
+    left: 39%;
+    margin-top: 6%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .detail {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 25%;
+  }
+  .elipseforgreen {
+    position: relative;
+    width: 30%;
+  }
+  .greenarrow {
+    position: absolute;
+    left: 42%;
+    width: 17%;
+    margin-top: 8%;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .detail {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 200;
+    font-size: 10px;
+    line-height: 8px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 35%;
+  }
+  .elipseforgreen {
+    position: relative;
+    margin-top: 0%;
+    width: 30%;
+  }
+  .greenarrow {
+    position: absolute;
+    left: 42%;
+    width: 17%;
+    margin-top: 15%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .detail {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 200;
+    font-size: 10px;
+    line-height: 8px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 25%;
+  }
+  .elipseforgreen {
+    position: relative;
+    width: 30%;
+  }
+  .greenarrow {
+    position: absolute;
+    left: 41%;
+    width: 18%;
+    margin-top: 20%;
+  }
+}
+
+.coldhead {
+  position: relative;
+  left: 1%;
+  width: 60%;
+  margin-top: 15%;
+  height: 95px;
+}
+
+.coldpic {
+  position: absolute;
+  left: 34% !important;
+  width: 33% !important;
+  margin-top: 22%;
+}
+.human{
+  position: relative;
+  left: 1%;
+  width: 60%;
+  margin-top: 15%;
+  height: 95px;
+  z-index: 1;
+}
+.backhuman{
+  position: absolute;
+  left: 28% !important;
+  width: 49% !important;
+  margin-top: 20%;
+
+}
+.tm{
+  position: relative;
+  left: 1%;
+  width: 60%;
+  margin-top: 15%;
+  height: 95px;
+  z-index: 1;
+}
+.backtm{
+  position: absolute;
+  left: 28% !important;
+  width: 49% !important;
+  margin-top: 20%;
+
+}
+.cold {
+  width: 100%;
+height: 18px;
+left: 52px;
+top: 2803px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+color: #00235A;
+}
+.pen {
+  position: relative;
+  right: 10%;
+  width: 50%;
+  margin-top: 15%;
+  height: 80px;
+}
+.ab {
+  position: absolute;
+  left: 54% !important;
+  width: 25% !important;
+  margin-top: 41%;
+}
+.roundsigma {
+  position: relative;
+  left: 1%;
+  width: 65% !important;
+  margin-top: 15%;
+  height: 95px;
+}
+.sigma {
+  position: absolute;
+  left: 47% !important;
+  width: 25% !important;
+  margin-top: 55%;
+}
+.alpha {
+  position: absolute;
+  left: 56% !important;
+  width: 17% !important;
+  margin-top: 50%;
+}
+.frame {
+  position: relative;
+  left: 1%;
+  width: 50% !important;
+  margin-top: 15%;
+  height: 95px;
+}
+.aframe {
+  position: absolute;
+  left: 37% !important;
+  width: 27% !important;
+  margin-top: 38%;
+}
+.psa{
+  position: absolute;
+  left: 37% !important;
+  width: 27% !important;
+  margin-top: 35%;
+}
+.wga{
+  position: absolute;
+  left: 37% !important;
+  width: 27% !important;
+  margin-top: 40%;
+}
+.fb {
+  position: relative;
+  right: 15%;
+  width: 25% !important;
+  margin-top: 21%;
+  height: 85px;
+}
+.twitter {
+  position: absolute;
+  left: 50% !important;
+  width: 33% !important;
+  margin-top: 16%;
+}
+.insta {
+  position: absolute;
+  left: 50% !important;
+  width: 29% !important;
+  margin-top: 48%;
+}
+
+@media screen and (max-width: 1440px) {
+  .coldhead {
+    position: relative;
+    left: 1%;
+    width: 50%;
+    margin-top: 15%;
+    height: 80px;
+  }
+  .coldpic {
+    position: absolute;
+    left: 38% !important;
+    width: 25% !important;
+    margin-top: 23%;
+  }
+  .cold {
+    text-align: center;
+    margin-top: 5%;
+  }
+  .pen {
+    position: relative;
+    right: 10%;
+    width: 40%;
+    margin-top: 15%;
+    height: 80px;
+  }
+  .ab {
+    position: absolute;
+    left: 54% !important;
+    width: 25% !important;
+    margin-top: 42%;
+  }
+  .roundsigma {
+    position: relative;
+    left: 1%;
+    width:55% !important;
+    margin-top: 15%;
+    height: 80px;
+  }
+  .sigma {
+    position: absolute;
+    left: 49% !important;
+    width: 23% !important;
+    margin-top: 52%;
+  }
+  .human{
+    position: relative;
+    left: 1%;
+    width: 60%;
+    margin-top: 15%;
+    height: 80px;
+    z-index: 1;
+  }
+  .backhuman{
+    position: absolute;
+    left: 28% !important;
+    width: 49% !important;
+    margin-top: 16%;
+  
+  }
+  .tm{
+    position: relative;
+    left: 1%;
+    width: 60%;
+    margin-top: 15%;
+    height: 80px;
+    z-index: 1;
+  }
+  .backtm{
+    position: absolute;
+    left: 35% !important;
+    width: 30% !important;
+    margin-top: 24%;
+  
+  }
+  .alpha {
+    position: absolute;
+    left: 56% !important;
+    width: 15% !important;
+    margin-top: 48%;
+  }
+  .frame {
+    position: relative;
+    left: 1%;
+    width: 50% !important;
+    margin-top: 15%;
+    height: 80px;
+  }
+  .aframe {
+    position: absolute;
+    left: 37% !important;
+    width: 27% !important;
+    margin-top: 35%;
+  }
+  .psa{
+    position: absolute;
+    left: 37% !important;
+    width: 27% !important;
+    margin-top: 35% !important;
+  }
+  .wga{
+    position: absolute;
+    left: 37% !important;
+    width: 27% !important;
+    margin-top: 35%;
+  }
+  .psa{
+    position: absolute;
+    left: 37% !important;
+    width: 27% !important;
+    margin-top: 35%;
+  }
+  .wga{
+    position: absolute;
+    left: 37% !important;
+    width: 27% !important;
+    margin-top: 35%;
+  }
+  .fb {
+    position: relative;
+    right: 15%;
+    width: 25% !important;
+    margin-top: 21%;
+    height: 72px;
+  }
+  .twitter {
+    position: absolute;
+    left: 50% !important;
+    width: 33% !important;
+    margin-top: 16%;
+  }
+  .insta {
+    position: absolute;
+    left: 50% !important;
+    width: 25% !important;
+    margin-top: 48%;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .coldhead {
+    position: relative;
+    left: 1%;
+    width: 60%;
+    margin-top: 15%;
+    height: 70px;
+  }
+  .coldpic {
+    position: absolute;
+    left: 38% !important;
+    width: 25% !important;
+    margin-top: 23%;
+  }
+  .cold {
+    text-align: center;
+    margin-top: 5%;
+  }
+  .pen {
+    position: relative;
+    right: 10%;
+    width: 37%;
+    margin-top: 15%;
+    height: 80px;
+  }
+  .ab {
+    position: absolute;
+    left: 54% !important;
+    width: 25% !important;
+    margin-top: 48%;
+  }
+  .roundsigma {
+    position: relative;
+    left: 1%;
+    width: 65% !important;
+    margin-top: 10%;
+    height: 80px;
+  }
+  .sigma {
+    position: absolute;
+    left: 50% !important;
+    width: 23% !important;
+    margin-top: 48%;
+  }
+  .human{
+    position: relative;
+    left: 1%;
+    width: 60%;
+    margin-top: 15%;
+    height: 80px;
+    z-index: 1;
+  }
+  .backhuman{
+    position: absolute;
+    left: 28% !important;
+    width: 49% !important;
+    margin-top: 16%;
+  
+  }
+  .tm{
+    position: relative;
+    left: 1%;
+    width: 60%;
+    margin-top: 15%;
+    height: 70px;
+    z-index: 1;
+  }
+  .backtm{
+    position: absolute;
+    left: 35% !important;
+    width: 30% !important;
+    margin-top: 26%;
+  
+  }
+  .alpha {
+    position: absolute;
+    left: 58% !important;
+    width: 15% !important;
+    margin-top: 46%;
+  }
+  .frame {
+    position: relative;
+    left: 1%;
+    width: 50% !important;
+    margin-top: 15%;
+    height: 70px !important;
+  }
+  .aframe {
+    position: absolute;
+    left: 37% !important;
+    width: 27% !important;
+    margin-top: 33%;
+  }
+  .psa{
+    position: absolute;
+    left: 40% !important;
+    width: 25% !important;
+    margin-top: 30% !important;
+  }
+  .wga{
+    position: absolute;
+    left: 37% !important;
+    width: 27% !important;
+    margin-top: 35%;
+  }
+  .fb {
+    position: relative;
+    right: 15%;
+    width: 25% !important;
+    margin-top: 21%;
+    height: 65px;
+  }
+  .twitter {
+    position: absolute;
+    left: 50% !important;
+    width: 33% !important;
+    margin-top: 16%;
+  }
+  .insta {
+    position: absolute;
+    left: 50% !important;
+    width: 25% !important;
+    margin-top: 48%;
+  }
+  .vaservice {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 55px;
+    text-align: center;
+    color: #00235a;
+}
+}
+
+@media screen and (max-width: 768px) {
+  .coldhead {
+    position: relative;
+    left: 1%;
+    width: 50%;
+    margin-top: 15%;
+    height: 45px;
+  }
+  .coldpic {
+    position: absolute;
+    left: 41% !important;
+    width: 20% !important;
+    margin-top: 22%;
+  }
+  .cold {
+    text-align: center;
+    margin-top: 5%;
+    font-size: 12px;
+}
+  .pen {
+    position: relative;
+    right: 10%;
+    width: 37%;
+    margin-top: 15%;
+    height: 45px;
+  }
+  .ab {
+    position: absolute;
+    left: 50% !important;
+    width: 25% !important;
+    margin-top: 40%;
+  }
+  .roundsigma {
+    position: relative;
+    left: 1%;
+    width: 60% !important;
+    margin-top: 10%;
+    height: 50px;
+  }
+  .sigma {
+    position: absolute;
+    left: 53% !important;
+    width: 19% !important;
+    margin-top: 40%;
+  }
+  
+  .human{
+    position: relative;
+    left: 1%;
+    width: 50%;
+    margin-top: 15%;
+    height: 45px;
+    z-index: 1;
+  }
+  .backhuman{
+    position: absolute;
+    left: 28% !important;
+    width: 47% !important;
+    height: 40%;
+    margin-top: 16%;
+  
+  }
+  .tm{
+    position: relative;
+    left: 1%;
+    width: 60%;
+    margin-top: 15%;
+    height: 50px;
+    z-index: 1;
+  }
+  .backtm{
+    position: absolute;
+    left: 35% !important;
+    width: 30% !important;
+    margin-top: 26%;
+  
+  }
+  .alpha {
+    position: absolute;
+    left: 58% !important;
+    width: 15% !important;
+    margin-top: 35%;
+  }
+  .frame {
+    position: relative;
+    left: 1%;
+    width: 50% !important;
+    margin-top: 15%;
+    height: 45px !important;
+  }
+  .aframe {
+    position: absolute;
+    left: 37% !important;
+    width: 22% !important;
+    margin-top: 30% !important;
+  }
+  .psa{
+    position: absolute;
+    left: 42% !important;
+    width: 20% !important;
+    margin-top: 27% !important;
+  }
+  .wga{
+    position: absolute;
+    left: 40% !important;
+    width: 20% !important;
+    margin-top: 32%;
+  }
+  .fb {
+    position: relative;
+    right: 15%;
+    width: 25% !important;
+    margin-top: 21%;
+    height: 40px;
+  }
+  .twitter {
+    position: absolute;
+    left: 50% !important;
+    width: 33% !important;
+    margin-top: 12%;
+  }
+  .insta {
+    position: absolute;
+    left: 50% !important;
+    width: 23% !important;
+    margin-top: 40%;
+  }
+}
+
+
+@media screen and (max-width: 426px) {
+  .coldhead {
+    position: relative;
+    left: 1%;
+    width: 50%;
+    margin-top: 15%;
+    height: 35px;
+  }
+  .coldpic {
+    position: absolute;
+    left: 40% !important;
+    width: 22% !important;
+    margin-top: 28%;
+  }
+  .cold {
+    text-align: center;
+    margin-top: 5%;
+  }
+  .pen {
+    position: relative;
+    right: 10%;
+    width: 30%;
+    margin-top: 15%;
+    height: 35px;
+  }
+  .ab {
+    position: absolute;
+    left: 54% !important;
+    width: 25% !important;
+    margin-top: 48%;
+  }
+  .roundsigma {
+    position: relative;
+    left: 1%;
+    width: 60% !important;
+    margin-top: 10%;
+    height: 38px;
+  }
+  .sigma {
+    position: absolute;
+    left: 51% !important;
+    width: 20% !important;
+    margin-top: 53%;
+  }
+  
+  .human{
+    position: relative;
+    left: 1%;
+    width: 50%;
+    margin-top: 15%;
+    height: 35px;
+    z-index: 1;
+  }
+  .backhuman{
+    position: absolute;
+    left: 28% !important;
+    width: 47% !important;
+    height: 40%;
+    margin-top: 17%;
+  
+  }
+  .tm{
+    position: relative;
+    left: 1%;
+    width: 60%;
+    margin-top: 15%;
+    height: 35px;
+    z-index: 1;
+  }
+  .backtm{
+    position: absolute;
+    left: 35% !important;
+    width: 30% !important;
+    margin-top: 26%;
+  
+  }
+  .alpha {
+    position: absolute;
+    left: 58% !important;
+    width: 15% !important;
+    margin-top: 35%;
+  }
+  .frame {
+    position: relative;
+    left: 1%;
+    width: 50% !important;
+    margin-top: 15%;
+    height: 35px !important;
+  }
+  .aframe {
+    position: absolute;
+    left: 37% !important;
+    width: 27% !important;
+    margin-top: 35%;
+  }
+  .psa{
+    position: absolute;
+    left: 37% !important;
+    width: 27% !important;
+    margin-top: 33% !important;
+  }
+  .wga{
+    position: absolute;
+    left: 37% !important;
+    width: 27% !important;
+    margin-top: 38% !important;
+  }
+  .fb {
+    position: relative;
+    right: 15%;
+    width: 25% !important;
+    margin-top: 21%;
+    height: 32px;
+  }
+  .twitter {
+    position: absolute;
+    left: 50% !important;
+    width: 33% !important;
+    margin-top: 16%;
+  }
+  .insta {
+    position: absolute;
+    left: 50% !important;
+    width: 25% !important;
+    margin-top: 48%;
+  }
+}
+
+
+@media screen and (max-width: 376px) {
+  .coldhead {
+    position: relative;
+    left: 1%;
+    width: 50%;
+    margin-top: 15%;
+    height: 35px;
+  }
+  .coldpic {
+    position: absolute;
+    left: 40% !important;
+    width: 22% !important;
+    margin-top: 28%;
+  }
+  .cold {
+    text-align: center;
+    margin-top: 5%;
+  }
+  .pen {
+    position: relative;
+    right: 10%;
+    width: 30%;
+    margin-top: 15%;
+    height: 35px;
+  }
+  .ab {
+    position: absolute;
+    left: 54% !important;
+    width: 25% !important;
+    margin-top: 48%;
+  }
+  .roundsigma {
+    position: relative;
+    left: 1%;
+    width: 60% !important;
+    margin-top: 10%;
+    height: 38px;
+  }
+  .sigma {
+    position: absolute;
+    left: 51% !important;
+    width: 20% !important;
+    margin-top: 45%;
+  }
+  
+  .human{
+    position: relative;
+    left: 1%;
+    width: 50%;
+    margin-top: 15%;
+    height: 35px;
+    z-index: 1;
+  }
+  .backhuman{
+    position: absolute;
+    left: 28% !important;
+    width: 47% !important;
+    height: 40%;
+    margin-top: 17%;
+  
+  }
+  .tm{
+    position: relative;
+    left: 1%;
+    width: 60%;
+    margin-top: 15%;
+    height: 35px;
+    z-index: 1;
+  }
+  .backtm{
+    position: absolute;
+    left: 35% !important;
+    width: 30% !important;
+    margin-top: 26%;
+  
+  }
+  .alpha {
+    position: absolute;
+    left: 58% !important;
+    width: 15% !important;
+    margin-top: 40%;
+  }
+  .frame {
+    position: relative;
+    left: 1%;
+    width: 50% !important;
+    margin-top: 15%;
+    height: 35px !important;
+  }
+  .aframe {
+    position: absolute;
+    left: 37% !important;
+    width: 27% !important;
+    margin-top: 35%;
+  }
+  .psa{
+    position: absolute;
+    left: 40% !important;
+    width: 22% !important;
+    margin-top: 31% !important;
+  }
+  .wga{
+    position: absolute;
+    left: 38% !important;
+    width: 23% !important;
+    margin-top: 35% !important;
+  }
+  .fb {
+    position: relative;
+    right: 15%;
+    width: 25% !important;
+    margin-top: 21%;
+    height: 32px;
+  }
+  .twitter {
+    position: absolute;
+    left: 50% !important;
+    width: 33% !important;
+    margin-top: 16%;
+  }
+  .insta {
+    position: absolute;
+    left: 50% !important;
+    width: 25% !important;
+    margin-top: 48%;
+  }
+}
+
+
+@media screen and (max-width: 321px) {
+  .coldhead {
+    position: relative;
+    left: 1%;
+    width: 50%;
+    margin-top: 15%;
+    height: 35px;
+  }
+  .coldpic {
+    position: absolute;
+    left: 40% !important;
+    width: 22% !important;
+    margin-top: 28%;
+  }
+  .cold {
+    text-align: center;
+    margin-top: 5%;
+  }
+  .pen {
+    position: relative;
+    right: 10%;
+    width: 30%;
+    margin-top: 15%;
+    height: 35px;
+  }
+  .ab {
+    position: absolute;
+    left: 54% !important;
+    width: 25% !important;
+    margin-top: 48%;
+  }
+  .roundsigma {
+    position: relative;
+    left: 1%;
+    width: 60% !important;
+    margin-top: 10%;
+    height: 38px;
+  }
+  .sigma {
+    position: absolute;
+    left: 51% !important;
+    width: 20% !important;
+    margin-top: 53%;
+  }
+  
+  .human{
+    position: relative;
+    left: 1%;
+    width: 50%;
+    margin-top: 15%;
+    height: 35px;
+    z-index: 1;
+  }
+  .backhuman{
+    position: absolute;
+    left: 28% !important;
+    width: 47% !important;
+    height: 40%;
+    margin-top: 17%;
+  
+  }
+  .tm{
+    position: relative;
+    left: 1%;
+    width: 60%;
+    margin-top: 15%;
+    height: 35px;
+    z-index: 1;
+  }
+  .backtm{
+    position: absolute;
+    left: 35% !important;
+    width: 30% !important;
+    margin-top: 26%;
+  
+  }
+  .alpha {
+    position: absolute;
+    left: 58% !important;
+    width: 15% !important;
+    margin-top: 49%;
+  }
+  .frame {
+    position: relative;
+    left: 1%;
+    width: 50% !important;
+    margin-top: 15%;
+    height: 35px !important;
+  }
+  .aframe {
+    position: absolute;
+    left: 37% !important;
+    width: 27% !important;
+    margin-top: 35%;
+  }
+  .psa{
+    position: absolute;
+    left: 40% !important;
+    width: 22% !important;
+    margin-top: 34% !important;
+  }
+  .wga{
+    position: absolute;
+    left: 38% !important;
+    width: 23% !important;
+    margin-top: 41% !important;
+  }
+  .fb {
+    position: relative;
+    right: 15%;
+    width: 25% !important;
+    margin-top: 21%;
+    height: 32px;
+  }
+  .twitter {
+    position: absolute;
+    left: 50% !important;
+    width: 33% !important;
+    margin-top: 16%;
+  }
+  .insta {
+    position: absolute;
+    left: 50% !important;
+    width: 25% !important;
+    margin-top: 48%;
+  }
+}

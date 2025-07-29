@@ -1,0 +1,373 @@
+.accordion {
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 83%;
+  height: 48px;
+  margin-left: 15%;
+
+  box-sizing: border-box;
+  text-align: left;
+  /* outline: none; */
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 0px;
+  transition: 0.4s;
+  background: #ffffff;
+  border: 1px solid #00235a;
+  border-radius: 39px;
+}
+.h{
+  margin-top: 25%;
+}
+.active,
+.accordion:hover {
+  background: #ffffff;
+}
+
+.panel {
+  padding: 0 18px;
+  width: 83%;
+  background-color: white;
+  overflow: hidden;
+  text-align: justify;
+  margin-left: 15%;
+
+  /* border: 1px solid #ccc;
+    border-radius: 80px; */
+}
+.faq_sections{
+  width: 63% !important;
+}
+@media screen and (max-width: 426px) {
+    .panel {
+        padding: 0 18px;
+        width: 85%;
+        background-color: white;
+        overflow: hidden;
+        margin-left: 15%;
+        text-align: justify;
+        /* border: 1px solid #ccc;
+          border-radius: 80px; */
+      }
+  }
+
+.eyestyle {
+  margin-left: 97%;
+}
+
+.faqheading {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 55px;
+  text-align: center;
+  color: #00235a;
+  margin-top:  5% !important;
+}
+.faq_image{
+  position: relative;
+    width: 489.89px;
+    height: 450.37px;
+    /* left: 1106.86px; */
+    /* top: -26px; */
+    bottom: 36px;
+}
+@media screen and (max-width: 768px) {
+  .faqheading {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 650;
+    font-size: 35px;
+    line-height: 45px;
+    text-align: center;
+    color: #00235a;
+    margin-top: 3%;
+
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .faqheading {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+    color: #00235a;
+    margin-top: 3%;
+
+  }
+}
+
+.needhelp {
+  background: linear-gradient(90deg, #ff5507 0%, #feb425 100%);
+  border-radius: 20px 0px 0px 20px;
+  width: 100%;
+  height: 410px;
+  padding: 00px 0px !important;
+  overflow: none;
+  margin-left: 24px;
+}
+@media screen and (max-width: 1440px) {
+    .needhelp {
+      background: linear-gradient(90deg, #ff5507 0%, #feb425 100%);
+      border-radius: 20px 0px 0px 20px;
+      width: 100%;
+      height: 300px;
+      padding: 25px 0px !important;
+      overflow: none;
+      margin-left: 24px;
+      margin-top: 30px;
+    }
+  }
+@media screen and (max-width: 426px) {
+  .needhelp {
+    background: linear-gradient(90deg, #ff5507 0%, #feb425 100%);
+    border-radius: 20px 0px 0px 20px;
+    width: 100%;
+    height: 240px;
+    padding: 0px 0px !important;
+    overflow: none;
+    margin-left: 24px;
+    margin-top: 15px;
+  }
+}
+
+.headingofneedhelp {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 100px;
+  line-height: 115px;
+  text-align: center;
+  padding: 0px 0px !important;
+  color: #ffffff;
+}
+@media screen and (max-width: 1440px) {
+    .headingofneedhelp {
+      font-family: "Ubuntu";
+      font-style: normal;
+      font-weight: 500;
+      font-size: 70px;
+      line-height: 90px;
+      text-align: center;
+      padding: 0px 0px !important;
+      color: #ffffff;
+
+    }
+  }
+  @media screen and (max-width: 1024px) {
+    .headingofneedhelp {
+      font-family: "Ubuntu";
+      font-style: normal;
+      font-weight: 500;
+      font-size: 45px;
+      line-height: 60px;
+      text-align: center;
+      padding: 30px 0px !important;
+      color: #ffffff;
+    }
+  }
+  @media screen and (max-width: 768px) {
+    .headingofneedhelp {
+      font-family: "Ubuntu";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 40px;
+      line-height: 60px;
+      text-align: center;
+      padding: 0px 0px !important;
+      color: #ffffff;
+    }
+  }
+@media screen and (max-width: 426px) {
+  .headingofneedhelp {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 80px;
+    text-align: center;
+    padding: 0px 0px !important;
+    color: #ffffff;
+  }
+}
+@media screen and (max-width: 376px) {
+    .headingofneedhelp {
+      font-family: "Ubuntu";
+      font-style: normal;
+      font-weight: 300;
+      font-size: 45px;
+      line-height: 40px;
+      text-align: center;
+      padding: 30px 0px !important;
+      color: #ffffff;
+    }
+  }
+@media screen and (max-width: 320px) {
+    .headingofneedhelp {
+      font-family: "Ubuntu";
+      font-style: normal;
+      font-weight: 300;
+      font-size: 50px;
+      line-height: 50px;
+      text-align: center;
+      padding: 10px 0px !important;
+      color: #ffffff;
+    }
+  }
+
+@media screen and (max-width: 1220px){
+  .faq_image {
+    position: relative;
+    width: 121%;
+    height: 450.37px;
+    /* left: 1106.86px; */
+    /* top: -26px; */
+    bottom: 36px;
+    left: 0%;
+}
+}
+@media screen and (max-width: 1280px){
+  .faq_image {
+    position: relative;
+    width: 475.89px;
+    height: 450.37px;
+    /* left: 1106.86px; */
+    /* top: -26px; */
+    bottom: 36px;
+}
+}
+.mainneedhelp {
+  padding: 0px 0px !important;
+}
+
+.askedqueries {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 37px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+@media screen and (max-width: 426px) {
+  .askedqueries {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 25px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #ffffff;
+  }
+}
+@media screen and (max-width: 1440px) {
+    .askedqueries {
+      font-family: "Ubuntu";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 25px;
+      line-height: 60px;
+      /* identical to box height */
+  
+      text-align: center;
+  
+      color: #ffffff;
+    }
+  }
+
+  @media screen and (max-width: 1024px) {
+    .askedqueries {
+      font-family: "Ubuntu";
+      font-style: normal;
+      font-weight: 300;
+      font-size: 15px;
+      line-height: 60px;
+      /* identical to box height */
+  
+      text-align: center;
+  
+      color: #ffffff;
+    }
+    .faq_image {
+      position: relative;
+      width: 361.89px;
+      height: 450.37px;
+      /* left: 1106.86px; */
+      /* top: -26px; */
+      bottom: 36px;
+  }
+  }
+  @media screen and (max-width: 768px){
+    .faq_image {
+        position: relative;
+        width: 280.89px;
+        height: 402.37px;
+        /* left: 1106.86px; */
+        /* top: -26px; */
+        bottom: 36px;
+    }
+    }
+  @media screen and (max-width: 768px) {
+    .askedqueries {
+      font-family: "Ubuntu";
+      font-style: normal;
+      font-weight: 300;
+      font-size: 15px;
+      line-height: 60px;
+      /* identical to box height */
+  
+      text-align: center;
+  
+      color: #ffffff;
+    }
+  }
+
+  @media screen and (max-width: 320px) {
+    .askedqueries {
+      font-family: "Ubuntu";
+      font-style: normal;
+      font-weight: 200;
+      font-size: 12px;
+      line-height: 60px;
+      /* identical to box height */
+  
+      text-align: center;
+  
+      color: #ffffff;
+    }
+  }
+  @media screen and (min-width: 300px) and (max-width: 399px){
+    .faq_image {
+      position: relative;
+      width: 395.89px;
+      height: 359.37px;
+      /* left: 1106.86px; */
+      /* top: -26px; */
+      bottom: 0px;
+  }
+  }
+
+
+  @media screen and (min-width: 2000px) and (max-width: 2560px){
+    .faq_image {
+      position: relative;
+      width: 729.89px;
+      height: 659.37px;
+      left: -41.14px;
+      /* top: -39px; */
+      bottom: 116px;
+  }
+  }

@@ -1,0 +1,210 @@
+
+.price-card {
+  background-color: #fff;
+  box-shadow: 10px 10px 10px 10px rgba(0.1, 0.1, 0, 0.1);
+  /* padding: 20px; */
+  text-align: center;
+  width: 20%;
+  /* border-radius: 20px; */
+  border-radius: 10px;
+  margin-left: 2%;
+  margin-top: 2%;
+}
+@media screen and (max-width: 1024px) {
+  .price-card {
+    background-color: #fff;
+    box-shadow: 10px 10px 10px 10px rgba(0.1, 0.1, 0, 0.1);
+    /* padding: 20px; */
+    text-align: center;
+    width: 25%;
+    /* border-radius: 20px; */
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-top: 2%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .price-card {
+    background-color: #fff;
+    box-shadow: 10px 10px 10px 10px rgba(0.1, 0.1, 0, 0.1);
+    /* padding: 20px; */
+    text-align: center;
+    width: 40%;
+    /* border-radius: 20px; */
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-top: 2%;
+  }
+}
+@media screen and (max-width: 500px) {
+  .price-card {
+    background-color: #fff;
+    box-shadow: 10px 10px 10px 10px rgba(0.1, 0.1, 0, 0.1);
+    /* padding: 20px; */
+    text-align: center;
+    width: 50%;
+    /* border-radius: 20px; */
+    border-radius: 10px;
+    margin-left: 25%;
+    margin-top: 2%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .price-card {
+    background-color: #fff;
+    box-shadow: 10px 10px 10px 10px rgba(0.1, 0.1, 0, 0.1);
+    /* padding: 20px; */
+    text-align: center;
+    width: 70%;
+    /* border-radius: 20px; */
+    border-radius: 10px;
+    margin-left: 15%;
+    margin-top: 2%;
+  }
+}
+
+.featured {
+  background-color: #00235a;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  /* line-height: 37px; */
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+.card-heading {
+  font-size: 24px;
+  margin-top: 0;
+  padding: 15px;
+  border-radius: 10px 10px 0 0;
+}
+
+.card-details {
+  list-style: none;
+  padding: 10px;
+  margin: 20px 0;
+  text-align: left;
+}
+
+.card-details li {
+  margin-bottom: 10px;
+}
+
+.card-btn {
+  border-radius: 10px;
+
+  padding: 10px 10px;
+  border-color: #00235a;
+  cursor: pointer;
+  margin-bottom: 3%;
+  background: #ffffff;
+
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height */
+  text-align: center;
+  color: #00235a;
+}
+
+.card-btn:hover {
+  background-color: #00235a;
+  color: #ffffff;
+}
+
+
+.ourpackages {
+    /* width: 334px;
+    height: 46px; */
+    margin: 1% 35% 1% 35%;
+    /* left: 793px; */
+    /* margin-left: 39%; */
+    /* top: 7090px; */
+    /* margin-top: 10px; */
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    /* line-height: 46px; */
+    /* identical to box height */
+  
+    text-align: center !important;
+  
+    color: #ff5e15;
+  }
+  @media screen and (max-width: 500px) {
+    .ourpackages {
+      /* width: 334px;
+      height: 46px; */
+      margin: 1% 20% 1% 20%;
+      /* left: 793px; */
+      /* margin-left: 39%; */
+      /* top: 7090px; */
+      /* margin-top: 10px; */
+      font-family: "Ubuntu";
+      font-style: normal;
+      font-weight: 600;
+      font-size: 20px;
+      /* line-height: 46px; */
+      /* identical to box height */
+    
+      text-align: center !important;
+    
+      color: #ff5e15;
+    }
+  
+    }
+    .hrtag1 {
+      /* margin-left: 40%; */
+      /* width: 20%;
+      height: 2px;
+      border-width: 3;
+      color: #00235a;
+      text-align: center;
+      background-color: #00235a;
+      border-color: #00235a; */
+    
+      width: 20%;
+      height: 2px;
+      border-width: 3;
+      color: #00235A;
+      background-color: #00235A;
+      border-color: #00235A;
+      margin: 0 40% 0 40%;
+    }
+    @media screen and (max-width: 768px) {
+      .hrtag1 {
+      
+        width: 38%;
+        height: 2px;
+        border-width: 3;
+        color: #00235A;
+        background-color: #00235A;
+        border-color: #00235A;
+        margin: 0 31% 0 31%;
+      }
+     }
+     @media screen and (max-width: 425px) {
+      .hrtag1 {
+        width: 50%;
+        height: 2px;
+        border-width: 3;
+        color: #00235A;
+        background-color: #00235A;
+        border-color: #00235A;
+        margin: 0 25% 0 25%;
+      }
+     }
+     .background-images {
+      background-image: url('https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvdG98ZW58MHx8MHx8&w=1000&q=80'), url('https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvdG98ZW58MHx8MHx8&w=1000&q=80');
+      background-position: left, right;
+      background-repeat: no-repeat;
+    ;
+    }

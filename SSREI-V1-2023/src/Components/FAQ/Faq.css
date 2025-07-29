@@ -1,0 +1,31 @@
+.maindiv {
+  width: 100%;
+}
+.eyeclass {
+  margin-left: 90%;
+}
+
+
+.accordion-button::after {
+  --bs-accordion-btn-icon: url("./../../Assets/eye.png" );
+}
+.accordion-button:not(.collapsed)::after {
+  background-image: var(--bs-accordion-btn-icon);
+}
+/* }
+.accordianmaindiv{
+  padding: 0px 100px;
+}
+
+.accordion-item{
+  border-radius: 80px;
+}
+
+.root {
+  --bs-border-radius: 1.375rem;
+} */
+
+.accordion{
+  --accordion-border-radius : "40px";
+
+}

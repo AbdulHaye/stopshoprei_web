@@ -1,0 +1,105 @@
+/* .button{
+    font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+margin: 30px;
+color: #FFFFFF;
+}
+ */
+
+ /* .button{
+  font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+padding: 0px 10px;
+color: #FFFFFF !important;
+
+ } */
+ .button {
+  color: #00235a !important;
+  padding: 4px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0;
+  cursor: pointer;
+  background: #ffffff !important;
+  border: 2px solid #00235a !important;
+  border-radius: 30px;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 20px;
+  cursor: pointer;
+}
+/* .button:hover {
+  color: #00235a !important;
+  padding: 15px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0;
+  cursor: pointer;
+  background: #ffffff !important;
+  border: 2px solid #00235a !important;
+  border-radius: 30px;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 0px;
+  cursor: pointer;
+} */
+
+
+.active {
+
+  background: none;
+
+}
+@media screen and (max-width:1024px){
+  .button {
+    color: #00235a !important;
+    padding: 4px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0;
+    cursor: pointer;
+    background: #ffffff !important;
+    border: 2px solid #00235a !important;
+    border-radius: 30px;
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 20px;
+    cursor: pointer;
+}
+}
+@media screen and (min-width:2500px) and (max-width:2560px){
+
+  .button {
+    color: #00235a !important;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0;
+    cursor: pointer;
+    background: #ffffff !important;
+    border: 2px solid #00235a !important;
+    border-radius: 30px;
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 20px;
+    cursor: pointer;
+}
+}
