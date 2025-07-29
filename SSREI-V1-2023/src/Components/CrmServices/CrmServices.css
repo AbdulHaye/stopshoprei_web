@@ -1,0 +1,166 @@
+.maindiv1 {
+  background: #eeeeee;
+  border-radius: 20px;
+  margin-top: 20px;
+  text-align: center;
+  width: 80%;
+  height: 80px;
+  margin-left: 10% !important;
+}
+.crm_pic{
+  width: 140px;
+  height: 70px;
+}
+@media screen and (max-width: 426px) {
+  .maindiv1 {
+    background: #eeeeee;
+    border-radius: 20px;
+    margin-top: 20px;
+    text-align: center;
+    width: 80%;
+    height: 300px;
+    margin-left: 10% !important;
+  }
+}
+
+.crm {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 55px;
+  text-align: center;
+  color: #00235a;
+  /* margin-bottom: 1%; */
+  margin-top: 10% !important;
+  /* margin-bottom: 1% !important; */
+}
+@media screen and (max-width: 768px) {
+  .crm {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 650;
+    font-size: 35px;
+    line-height: 45px;
+    text-align: center;
+    color: #00235a;
+  }
+  .crm_pic {
+    width: 135px;
+    height: 65px;
+}
+}
+
+@media screen and (max-width: 426px) {
+  .crm {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+    color: #00235a;
+  }
+ 
+}
+@media screen and (max-width: 1440px) {
+  .crm {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 55px;
+    text-align: center;
+    color: #00235a;
+  
+    margin-top: 0% !important;
+    
+}
+.crm_pic {
+  width: 180px;
+  height: 72px;
+}
+}
+@media screen and (max-width: 2560px) {
+  .crm {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 55px;
+    text-align: center;
+    color: #00235a;
+    margin-top: 0% !important;
+}
+.crm_pic{
+  width: 240px;
+  height: 80px;
+}
+}
+@media screen and (max-width: 1440px) {
+  .crm {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 55px;
+    text-align: center;
+    color: #00235a;
+  
+    margin-top: 0% !important;
+    
+}
+.crm_pic {
+  width: 180px;
+  height: 72px;
+}
+}
+@media screen and (max-width: 1540px) {
+  .crm {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 55px;
+    text-align: center;
+    color: #00235a;
+    margin-top: 0% !important;
+}
+.crm_pic {
+  width: 180px;
+  height: 72px;
+}
+}
+@media screen and (max-width: 1024px) {
+  .crm {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 55px;
+    text-align: center;
+    color: #00235a;
+  
+    margin-top: 0% !important;
+    
+}
+.crm_pic {
+  width: 180px;
+  height: 72px;
+}
+}
+@media screen and (max-width: 768px) {
+  .crm {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 650;
+    font-size: 35px;
+    line-height: 45px;
+    text-align: center;
+    color: #00235a;
+  }
+  .crm_pic {
+    width: 135px;
+    height: 65px;
+}
+}

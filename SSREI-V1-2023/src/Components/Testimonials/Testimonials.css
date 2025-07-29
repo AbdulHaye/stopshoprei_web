@@ -1,0 +1,2333 @@
+.main{
+    width: 100%;
+height: 100%;
+left: 0px;
+top: 5479px;
+
+background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+border: 1px solid #FFFFFF;
+}
+.feedback{
+    width: 100%;
+    height: 100%;
+    border-radius: 22px;
+}
+.fade-transition {
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+  .fade-transition.fade-transition-enter {
+    opacity: 1;
+  }
+  
+@media screen and (min-width:768px) and (max-width: 900px) {
+    .main{
+        width: 100%;
+        height: 100%;
+    left: 0px;
+    top: 5479px;
+    
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border: 1px solid #FFFFFF;
+    }
+    iframe{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+    height: 100%;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        margin-bottom: 8%;
+    
+    }
+    .arrows{
+        position: relative;
+        right: 13%;
+        margin-bottom: 15%;
+    }
+    .testimonial_main{
+        text-align: center;
+    
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    margin-top: 4%;
+    }
+    .playlist_vid {
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 115px;
+        height: 85px;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        margin-bottom: 8%;
+    }
+    .div_video{
+        position: relative;
+        left: 0%; 
+    }
+   
+    .comma_1{
+        position: relative;
+        bottom: 16%;
+        right: 8%;
+    
+    }
+    .comma_2{
+        position: relative;
+        left: 74%;
+        top: 5%;
+    }
+    .testi_data {
+        width: 300px;
+        height: 285px;
+        left: 1021px;
+        top: 5618px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 10px;
+        line-height: 19px;
+        text-align: justify;
+        text-transform: capitalize;
+        margin-top: 6%;
+        margin-left: 20%;
+        color: #FFFFFD;
+    }
+    .video {
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 330px;
+        height: 285px;
+        /* left: 330px; */
+        /* top: 5590px; */
+        transform: perspective(800px) rotateY(20deg);
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        right: 4%;
+        position: relative;
+        margin-top: 4%;
+    }
+    .right_arr{
+        position: relative;
+        left: 20%;
+        
+    }
+    .left_arr{
+        position: relative;
+        right: 25%;
+      
+    }
+    .video_link {
+        width: 100%;
+        height: 100%;
+      
+    }
+    .video_link1{
+        width: 100%;
+        height: 100%;
+        border-radius: 15%;
+    }
+    .main_testimonial{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+        height: 580px;
+        left: 0px;
+        top: 5479px;
+        background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+        border: 1px solid #FFFFFF;
+    }
+    .testimonial_heading{
+        width: 100%;
+        height: 41px;
+        /* left: 828px; */
+        /* top: 5519px; */
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 41px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    .testimonials_video{
+        box-sizing: border-box;
+    
+    width: 520px;
+    height: 329px;
+    left: 331px;
+    top: 5590px;
+    
+    background: rgba(238, 238, 238, 0.18);
+    border: 2px solid #FEA800;
+    border-radius: 20px;
+    }
+    .testt{
+        display: grid;
+        
+    }
+    .testt1{
+        display: flex;
+    
+    }
+    .testimonial_playlist{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+        left: 158px;
+        top: 5590px;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px; 
+    }
+    .playlist_video{
+      width: 100%;  
+      height: 100%;
+      border-radius: 15%;
+    }
+    .playlist-container{
+        padding-left: 2%;
+    }
+    
+}
+@media screen and (min-width:900px) and (max-width: 1000px) {
+    .main{
+        width: 100%;
+        height: 100%;
+    left: 0px;
+    top: 5479px;
+    
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border: 1px solid #FFFFFF;
+    }
+    iframe{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+    height: 100%;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        margin-bottom: 8%;
+    
+    }
+    .arrows{
+        position: relative;
+        right: 13%;
+        margin-bottom: 15%;
+    }
+    .testimonial_main{
+        text-align: center;
+    
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    margin-top: 4%;
+    }
+    .playlist_vid {
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 145px;
+        height: 80px;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        margin-bottom: 8%;
+    }
+    .div_video{
+        position: relative;
+        left: 0%; 
+    }
+    .comma_1{
+        position: relative;
+        bottom: 16%;
+        right: 8%;
+    
+    }
+    .comma_2{
+        position: relative;
+        left: 74%;
+        top: 5%;
+    }
+    .testi_data {
+        width: 383px;
+        height: 285px;
+        left: 1021px;
+        top: 5618px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 10px;
+        line-height: 19px;
+        text-align: justify;
+        text-transform: capitalize;
+        margin-top: 6%;
+        margin-left: 9%;
+        color: #FFFFFF;
+    }
+    .video {
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 330px;
+        height: 285px;
+        /* left: 330px; */
+        /* top: 5590px; */
+        transform: perspective(800px) rotateY(20deg);
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        left: 7%;
+        position: relative;
+        margin-top: 4%;
+    }
+    .right_arr{
+        position: relative;
+        left: 20%;
+        
+    }
+    .left_arr{
+        position: relative;
+        right: 25%;
+      
+    }
+    .video_link {
+        width: 100%;
+        height: 100%;
+      
+    }
+    .video_link1{
+        width: 100%;
+        height: 100%;
+        border-radius: 15%;
+    }
+    .main_testimonial{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+        height: 580px;
+        left: 0px;
+        top: 5479px;
+        background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+        border: 1px solid #FFFFFF;
+    }
+    .testimonial_heading{
+        width: 100%;
+        height: 41px;
+        /* left: 828px; */
+        /* top: 5519px; */
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 41px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    .testimonials_video{
+        box-sizing: border-box;
+    
+    width: 520px;
+    height: 329px;
+    left: 331px;
+    top: 5590px;
+    
+    background: rgba(238, 238, 238, 0.18);
+    border: 2px solid #FEA800;
+    border-radius: 20px;
+    }
+    .testt{
+        display: grid;
+        
+    }
+    .testt1{
+        display: flex;
+    
+    }
+    .testimonial_playlist{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+        left: 158px;
+        top: 5590px;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px; 
+    }
+    .playlist_video{
+      width: 100%;  
+      height: 100%;
+      border-radius: 15%;
+    }
+    .playlist-container{
+        padding-left: 2%;
+    }
+    
+}
+@media screen and (min-width:1001px) and (max-width: 1100px) {
+    .main{
+        width: 100%;
+        height: 100%;
+    left: 0px;
+    top: 5479px;
+    
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border: 1px solid #FFFFFF;
+    }
+    iframe{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+        height: 100%;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        margin-bottom: 8%;
+    
+    }
+    .arrows{
+        position: relative;
+        right: 13%;
+        margin-bottom: 15%;
+    }
+    .testimonial_main{
+        text-align: center;
+    
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    margin-top: 4%;
+    }
+    .playlist_vid{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+     
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+      
+        margin-bottom: 8%;
+    }
+    .div_video{
+        position: relative;
+        left: 0%; 
+    }
+    .comma_1{
+        position: relative;
+        bottom: 16%;
+        right: 8%;
+    
+    }
+    .comma_2{
+        position: relative;
+        left: 74%;
+        top: 5%;
+    }
+    .testi_data {
+        width: 100%;
+        height: 100%;
+        left: 1021px;
+        top: 5618px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 20px;
+        text-align: justify;
+        text-transform: capitalize;
+        margin-top: 6%;
+        margin-left: 9%;
+        color: #FFFFFF;
+    }
+    .video {
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 390px;
+        height: 285px;
+        /* left: 330px; */
+        /* top: 5590px; */
+        transform: perspective(800px) rotateY(20deg);
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        right: 0%;
+        position: relative;
+        margin-top: 4%;
+    }
+    .right_arr{
+        position: relative;
+        left: 20%;
+        
+    }
+    .left_arr{
+        position: relative;
+        right: 25%;
+      
+    }
+    .video_link {
+        width: 100%;
+        height: 100%;
+      
+    }
+    .video_link1{
+        width: 100%;
+        height: 100%;
+        border-radius: 15%;
+    }
+    .main_testimonial{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+        height: 580px;
+        left: 0px;
+        top: 5479px;
+        background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+        border: 1px solid #FFFFFF;
+    }
+    .testimonial_heading{
+        width: 100%;
+        height: 41px;
+        /* left: 828px; */
+        /* top: 5519px; */
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 41px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    .testimonials_video{
+        box-sizing: border-box;
+    
+    width: 520px;
+    height: 329px;
+    left: 331px;
+    top: 5590px;
+    
+    background: rgba(238, 238, 238, 0.18);
+    border: 2px solid #FEA800;
+    border-radius: 20px;
+    }
+    .testt{
+        display: grid;
+        
+    }
+    .testt1{
+        display: flex;
+    
+    }
+    .testimonial_playlist{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+        left: 158px;
+        top: 5590px;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px; 
+    }
+    .playlist_video{
+      width: 100%;  
+      height: 100%;
+      border-radius: 15%;
+    }
+    .playlist-container{
+        padding-left: 2%;
+    }
+    
+}
+@media screen and (min-width:1100px) and (max-width: 1200px) {
+    .main{
+        width: 100%;
+        height: 100%;
+    left: 0px;
+    top: 5479px;
+    
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border: 1px solid #FFFFFF;
+    }
+    iframe{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+    height: 100%;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        margin-bottom: 8%;
+    
+    }
+    .arrows{
+        position: relative;
+        right: 13%;
+        margin-bottom: 15%;
+    }
+    .testimonial_main{
+        text-align: center;
+    
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    margin-top: 4%;
+    }
+    .playlist_vid{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+     
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+      
+        margin-bottom: 8%;
+    }
+    .div_video{
+        position: relative;
+        left: 1%; 
+    }
+    .comma_1{
+        position: relative;
+        bottom: 16%;
+        right: 8%;
+    
+    }
+    .comma_2{
+        position: relative;
+        left: 74%;
+        top: 5%;
+    }
+    .testi_data {
+        width: 479px;
+        height: 285px;
+        left: 1021px;
+        top: 5618px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 19px;
+        text-align: justify;
+        text-transform: capitalize;
+        margin-top: 6%;
+        margin-left: 9%;
+        color: #FFFFFF;
+    }
+    .video {
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 431px;
+        height: 304px;
+        /* left: 330px; */
+        /* top: 5590px; */
+        transform: perspective(800px) rotateY(20deg);
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        right: 0%;
+        position: relative;
+        margin-top: 4%;
+    }
+    .right_arr{
+        position: relative;
+        left: 20%;
+        
+    }
+    .left_arr{
+        position: relative;
+        right: 25%;
+      
+    }
+    .video_link {
+        width: 100%;
+        height: 100%;
+      
+    }
+    .video_link1{
+        width: 100%;
+        height: 100%;
+        border-radius: 15%;
+    }
+    .main_testimonial{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+        height: 580px;
+        left: 0px;
+        top: 5479px;
+        background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+        border: 1px solid #FFFFFF;
+    }
+    .testimonial_heading{
+        width: 100%;
+        height: 41px;
+        /* left: 828px; */
+        /* top: 5519px; */
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 41px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    .testimonials_video{
+        box-sizing: border-box;
+    
+    width: 520px;
+    height: 329px;
+    left: 331px;
+    top: 5590px;
+    
+    background: rgba(238, 238, 238, 0.18);
+    border: 2px solid #FEA800;
+    border-radius: 20px;
+    }
+    .testt{
+        display: grid;
+        
+    }
+    .testt1{
+        display: flex;
+    
+    }
+    .testimonial_playlist{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+        left: 158px;
+        top: 5590px;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px; 
+    }
+    .playlist_video{
+      width: 100%;  
+      height: 100%;
+      border-radius: 15%;
+    }
+    .playlist-container{
+        padding-left: 2%;
+    }
+    
+}
+@media screen and (min-width:1200px) and (max-width: 1300px) {
+    .main{
+        width: 100%;
+        height: 100%;
+    left: 0px;
+    top: 5479px;
+    
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border: 1px solid #FFFFFF;
+    }
+    iframe{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+    height: 100%;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        margin-bottom: 8%;
+    
+    }
+    .arrows{
+        position: relative;
+        right: 13%;
+        margin-bottom: 15%;
+    }
+    .testimonial_main{
+        text-align: center;
+    
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    margin-top: 4%;
+    }
+    .playlist_vid{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+     
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+      
+        margin-bottom: 8%;
+    }
+    .div_video{
+        position: relative;
+        left: 1%; 
+    }
+    .comma_1{
+        position: relative;
+        bottom: 16%;
+        right: 8%;
+    
+    }
+    .comma_2{
+        position: relative;
+        left: 74%;
+        top: 5%;
+    }
+    .testi_data{
+        width: 576px;
+        height: 100%;
+        left: 1021px;
+        top: 5618px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        text-align: justify;
+        text-transform: capitalize;
+        margin-top: 6%;
+        color: #FFFFFF;
+    }
+    .video {
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 431px;
+        height: 304px;
+        /* left: 330px; */
+        /* top: 5590px; */
+        transform: perspective(800px) rotateY(20deg);
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        right: 0%;
+        position: relative;
+        margin-top: 4%;
+    }
+    .right_arr{
+        position: relative;
+        left: 20%;
+        
+    }
+    .left_arr{
+        position: relative;
+        right: 25%;
+      
+    }
+    .video_link {
+        width: 100%;
+        height: 100%;
+      
+    }
+    .video_link1{
+        width: 100%;
+        height: 100%;
+        border-radius: 15%;
+    }
+    .main_testimonial{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+        height: 580px;
+        left: 0px;
+        top: 5479px;
+        background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+        border: 1px solid #FFFFFF;
+    }
+    .testimonial_heading{
+        width: 100%;
+        height: 41px;
+        /* left: 828px; */
+        /* top: 5519px; */
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 41px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    .testimonials_video{
+        box-sizing: border-box;
+    
+    width: 520px;
+    height: 329px;
+    left: 331px;
+    top: 5590px;
+    
+    background: rgba(238, 238, 238, 0.18);
+    border: 2px solid #FEA800;
+    border-radius: 20px;
+    }
+    .testt{
+        display: grid;
+        
+    }
+    .testt1{
+        display: flex;
+    
+    }
+    .testimonial_playlist{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+        left: 158px;
+        top: 5590px;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px; 
+    }
+    .playlist_video{
+      width: 100%;  
+      height: 100%;
+      border-radius: 15%;
+    }
+    .playlist-container{
+        padding-left: 2%;
+    }
+    
+}
+@media screen and (min-width:1300px) and (max-width: 1441px) {
+    .main{
+        width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 5479px;
+    
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border: 1px solid #FFFFFF;
+    }
+    iframe {
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+        height: 100%;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        margin-bottom: 8%;
+    }
+    .arrows{
+        position: relative;
+        right: 13%;
+        margin-bottom: 15%;
+    }
+    .testimonial_main{
+        text-align: center;
+    
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    margin-top: 4%;
+    }
+    .playlist_vid{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+     
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+      
+        margin-bottom: 8%;
+    }
+    .div_video {
+        position: relative;
+        left: 4%;
+        top: 3px;
+    }
+    .comma_1{
+        position: relative;
+        bottom: 16%;
+        right: 8%;
+    
+    }
+    .comma_2{
+        position: relative;
+        left: 74%;
+        top: 5%;
+    }
+    .testi_data{
+        width: 100%;
+        height: 100%;
+        left: 1021px;
+        top: 5618px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: justify;
+        text-transform: capitalize;
+        margin-top: 6%;
+        color: #FFFFFF;
+    }
+    .video {
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 431px;
+        height: 304px;
+        /* left: 330px; */
+        /* top: 5590px; */
+        transform: perspective(800px) rotateY(20deg);
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        right: 0%;
+        position: relative;
+        margin-top: 4%;
+    }
+    .right_arr{
+        position: relative;
+        left: 20%;
+        
+    }
+    .left_arr{
+        position: relative;
+        right: 25%;
+      
+    }
+    .video_link {
+        width: 100%;
+        height: 100%;
+      
+    }
+    .video_link1{
+        width: 100%;
+        height: 100%;
+        border-radius: 15%;
+    }
+    .main_testimonial{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+        height: 580px;
+        left: 0px;
+        top: 5479px;
+        background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+        border: 1px solid #FFFFFF;
+    }
+    .testimonial_heading{
+        width: 100%;
+        height: 41px;
+        /* left: 828px; */
+        /* top: 5519px; */
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 41px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    .testimonials_video{
+        box-sizing: border-box;
+    
+    width: 520px;
+    height: 329px;
+    left: 331px;
+    top: 5590px;
+    
+    background: rgba(238, 238, 238, 0.18);
+    border: 2px solid #FEA800;
+    border-radius: 20px;
+    }
+    .testt{
+        display: grid;
+        
+    }
+    .testt1{
+        display: flex;
+    
+    }
+    .testimonial_playlist{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+        left: 158px;
+        top: 5590px;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px; 
+    }
+    .playlist_video{
+      width: 100%;  
+      height: 100%;
+      border-radius: 15%;
+    }
+    .playlist-container{
+        padding-left: 2%;
+    }
+    
+}
+@media screen and (min-width:1441px) and (max-width: 1540px) {
+    .main{
+        width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 5479px;
+    
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border: 1px solid #FFFFFF;
+    }
+    iframe{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+        height: 100%;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        margin-bottom: 8%;
+    
+    }
+    .arrows{
+        position: relative;
+        margin-bottom: 15%;
+    }
+    .testimonial_main{
+        text-align: center;
+    
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    margin-top: 4%;
+    }
+    .playlist_vid{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+     
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+      
+        margin-bottom: 8%;
+    }
+    .div_video{
+        position: relative;
+        left: 4%; 
+    }
+    .comma_1{
+        position: relative;
+        bottom: 16%;
+        right: 8%;
+    
+    }
+    .comma_2{
+        position: relative;
+        left: 74%;
+        top: 5%;
+    }
+    .testi_data{
+        width: 690px;
+        height: 100%;
+        left: 1021px;
+        top: 5618px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 19px;
+        line-height: 20px;
+        text-align: justify;
+        text-transform: capitalize;
+        margin-top: 6%;
+        color: #FFFFFF;
+    }
+    .video {
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 493px;
+        height: 284px;
+        /* left: 330px; */
+        /* top: 5590px; */
+        transform: perspective(800px) rotateY(20deg);
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        right: 2%;
+        position: relative;
+        margin-top: 5%;
+    }
+    .right_arr{
+        position: relative;
+        left: 20%;
+        
+    }
+    .left_arr{
+        position: relative;
+        right: 25%;
+      
+    }
+    .video_link{
+        width: 100%;
+        height: 100%;
+        border-radius: 5%;
+    }
+    .video_link1{
+        width: 100%;
+        height: 100%;
+        border-radius: 15%;
+    }
+    .main_testimonial{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+        height: 580px;
+        left: 0px;
+        top: 5479px;
+        background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+        border: 1px solid #FFFFFF;
+    }
+    .testimonial_heading{
+        width: 100%;
+        height: 41px;
+        /* left: 828px; */
+        /* top: 5519px; */
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 41px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    .testimonials_video{
+        box-sizing: border-box;
+    
+    width: 520px;
+    height: 329px;
+    left: 331px;
+    top: 5590px;
+    
+    background: rgba(238, 238, 238, 0.18);
+    border: 2px solid #FEA800;
+    border-radius: 20px;
+    }
+    .testt{
+        display: grid;
+        
+    }
+    .testt1{
+        display: flex;
+    
+    }
+    .testimonial_playlist{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+        left: 158px;
+        top: 5590px;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px; 
+    }
+    .playlist_video{
+      width: 100%;  
+      height: 100%;
+      border-radius: 15%;
+    }
+    .playlist-container{
+        padding-left: 2%;
+    }
+    
+}
+
+@media screen and (min-width:1540px) and (max-width: 1650px) {
+    .main{
+        width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 5479px;
+    
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border: 1px solid #FFFFFF;
+    }
+    iframe{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+        height: 100%;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        margin-bottom: 8%;
+    
+    }
+    .arrows{
+        position: relative;
+        margin-bottom: 15%;
+    }
+    .testimonial_main{
+        text-align: center;
+    
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    margin-top: 4%;
+    }
+    .playlist_vid{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+     
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+      
+        margin-bottom: 8%;
+    }
+    .div_video{
+        position: relative;
+        left: 4%; 
+    }
+    .comma_1{
+        position: relative;
+        bottom: 16%;
+        right: 8%;
+    
+    }
+    .comma_2{
+        position: relative;
+        left: 74%;
+        top: 5%;
+    }
+    .testi_data{
+        width: 690px;
+        height: 100%;
+        left: 1021px;
+        top: 5618px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        text-align: justify;
+        text-transform: capitalize;
+        margin-top: 6%;
+        color: #FFFFFF;
+    }
+    .video {
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 493px;
+        height: 284px;
+        /* left: 330px; */
+        /* top: 5590px; */
+        transform: perspective(800px) rotateY(20deg);
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        right: 2%;
+        position: relative;
+        margin-top: 5%;
+    }
+    .right_arr{
+        position: relative;
+        left: 20%;
+        
+    }
+    .left_arr{
+        position: relative;
+        right: 25%;
+      
+    }
+    .video_link{
+        width: 100%;
+        height: 100%;
+        border-radius: 5%;
+    }
+    .video_link1{
+        width: 100%;
+        height: 100%;
+        border-radius: 15%;
+    }
+    .main_testimonial{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+        height: 580px;
+        left: 0px;
+        top: 5479px;
+        background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+        border: 1px solid #FFFFFF;
+    }
+    .testimonial_heading{
+        width: 100%;
+        height: 41px;
+        /* left: 828px; */
+        /* top: 5519px; */
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 41px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    .testimonials_video{
+        box-sizing: border-box;
+    
+    width: 520px;
+    height: 329px;
+    left: 331px;
+    top: 5590px;
+    
+    background: rgba(238, 238, 238, 0.18);
+    border: 2px solid #FEA800;
+    border-radius: 20px;
+    }
+    .testt{
+        display: grid;
+        
+    }
+    .testt1{
+        display: flex;
+    
+    }
+    .testimonial_playlist{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+        left: 158px;
+        top: 5590px;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px; 
+    }
+    .playlist_video{
+      width: 100%;  
+      height: 100%;
+      border-radius: 15%;
+    }
+    .playlist-container{
+        padding-left: 2%;
+    }
+    
+}
+@media screen and (min-width:1650px) and (max-width: 1800px) {
+    .main{
+        width: 100%;
+        height: 100%;
+    left: 0px;
+    top: 5479px;
+    
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border: 1px solid #FFFFFF;
+    }
+    iframe{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+        height: 100%;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        margin-bottom: 8%;
+    
+    }
+    .arrows{
+        position: relative;
+        margin-bottom: 15%;
+    }
+    .testimonial_main{
+        text-align: center;
+    
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    margin-top: 4%;
+    }
+    .playlist_vid{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+     
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+      
+        margin-bottom: 8%;
+    }
+    .div_video{
+        position: relative;
+        left: 4%; 
+    }
+    .comma_1{
+        position: relative;
+        bottom: 16%;
+        right: 8%;
+    
+    }
+    .comma_2{
+        position: relative;
+        left: 74%;
+        top: 5%;
+    }
+    .testi_data{
+        width: 690px;
+        height: 100%;
+        left: 1021px;
+        top: 5618px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        text-align: justify;
+        text-transform: capitalize;
+        margin-top: 6%;
+        color: #FFFFFF;
+    }
+    .video {
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 493px;
+        height: 284px;
+        /* left: 330px; */
+        /* top: 5590px; */
+        transform: perspective(800px) rotateY(20deg);
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        right: 2%;
+        position: relative;
+        margin-top: 5%;
+    }
+    .right_arr{
+        position: relative;
+        left: 20%;
+        
+    }
+    .left_arr{
+        position: relative;
+        right: 25%;
+      
+    }
+    .video_link{
+        width: 100%;
+        height: 100%;
+        border-radius: 5%;
+    }
+    .video_link1{
+        width: 100%;
+        height: 100%;
+        border-radius: 15%;
+    }
+    .main_testimonial{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+        height: 580px;
+        left: 0px;
+        top: 5479px;
+        background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+        border: 1px solid #FFFFFF;
+    }
+    .testimonial_heading{
+        width: 100%;
+        height: 41px;
+        /* left: 828px; */
+        /* top: 5519px; */
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 41px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    .testimonials_video{
+        box-sizing: border-box;
+    
+    width: 520px;
+    height: 329px;
+    left: 331px;
+    top: 5590px;
+    
+    background: rgba(238, 238, 238, 0.18);
+    border: 2px solid #FEA800;
+    border-radius: 20px;
+    }
+    .testt{
+        display: grid;
+        
+    }
+    .testt1{
+        display: flex;
+    
+    }
+    .testimonial_playlist{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+        left: 158px;
+        top: 5590px;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px; 
+    }
+    .playlist_video{
+      width: 100%;  
+      height: 100%;
+      border-radius: 15%;
+    }
+    .playlist-container{
+        padding-left: 2%;
+    }
+    
+}
+@media screen and (min-width:1650px) and (max-width: 1800px) {
+    .main{
+        width: 100%;
+        height: 100%;
+    left: 0px;
+    top: 5479px;
+    
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border: 1px solid #FFFFFF;
+    }
+    iframe{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+        height: 100%;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        margin-bottom: 8%;
+    
+    }
+    .arrows{
+        position: relative;
+        margin-bottom: 15%;
+    }
+    .testimonial_main{
+        text-align: center;
+    
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    margin-top: 4%;
+    }
+    .playlist_vid{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+     
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+      
+        margin-bottom: 8%;
+    }
+    .div_video{
+        position: relative;
+        left: 4%; 
+    }
+    .comma_1{
+        position: relative;
+        bottom: 16%;
+        right: 8%;
+    
+    }
+    .comma_2{
+        position: relative;
+        left: 74%;
+        top: 5%;
+    }
+    .testi_data{
+        width: 690px;
+        height: 100%;
+        left: 1021px;
+        top: 5618px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        text-align: justify;
+        text-transform: capitalize;
+        margin-top: 6%;
+        color: #FFFFFF;
+    }
+    .video {
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 493px;
+        height: 284px;
+        /* left: 330px; */
+        /* top: 5590px; */
+        transform: perspective(800px) rotateY(20deg);
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        right: 2%;
+        position: relative;
+        margin-top: 5%;
+    }
+    .right_arr{
+        position: relative;
+        left: 20%;
+        
+    }
+    .left_arr{
+        position: relative;
+        right: 25%;
+      
+    }
+    .video_link{
+        width: 100%;
+        height: 100%;
+        border-radius: 5%;
+    }
+    .video_link1{
+        width: 100%;
+        height: 100%;
+        border-radius: 15%;
+    }
+    .main_testimonial{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+        height: 580px;
+        left: 0px;
+        top: 5479px;
+        background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+        border: 1px solid #FFFFFF;
+    }
+    .testimonial_heading{
+        width: 100%;
+        height: 41px;
+        /* left: 828px; */
+        /* top: 5519px; */
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 41px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    .testimonials_video{
+        box-sizing: border-box;
+    
+    width: 520px;
+    height: 329px;
+    left: 331px;
+    top: 5590px;
+    
+    background: rgba(238, 238, 238, 0.18);
+    border: 2px solid #FEA800;
+    border-radius: 20px;
+    }
+    .testt{
+        display: grid;
+        
+    }
+    .testt1{
+        display: flex;
+    
+    }
+    .testimonial_playlist{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+        left: 158px;
+        top: 5590px;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px; 
+    }
+    .playlist_video{
+      width: 100%;  
+      height: 100%;
+      border-radius: 15%;
+    }
+    .playlist-container{
+        padding-left: 2%;
+    }
+    
+}
+@media screen and (min-width:1800px) and (max-width: 2000px) {
+    .main{
+        width: 100%;
+        height: 100%;
+    left: 0px;
+    top: 5479px;
+    
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border: 1px solid #FFFFFF;
+    }
+    iframe{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+        height: 100%;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        margin-bottom: 8%;
+    
+    }
+    .arrows {
+        position: relative;
+        right: 5%;
+        margin-top: 5%;
+        margin-bottom: 15%;
+    }
+    .testimonial_main{
+        text-align: center;
+    
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    margin-top: 4%;
+    }
+    .playlist_vid{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+     
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+      
+        margin-bottom: 8%;
+    }
+    .div_video{
+        position: relative;
+        left: 6%; 
+    }
+    .comma_1{
+        position: relative;
+        bottom: 16%;
+        right: 8%;
+    
+    }
+    .comma_2{
+        position: relative;
+        left: 74%;
+        top: 5%;
+    }
+    .testi_data{
+        width: 690px;
+        height: 100%;
+        left: 1021px;
+        top: 5618px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 26px;
+        text-align: justify;
+        text-transform: capitalize;
+        margin-top: 3%;
+        color: #FFFFFF;
+    
+        
+    }
+   
+    .video {
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 493px;
+        height: 304px;
+        /* left: 330px; */
+        /* top: 5590px; */
+        transform: perspective(800px) rotateY(20deg);
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        right: 2%;
+        position: relative;
+        margin-top: 4%;
+    }
+    .right_arr{
+        position: relative;
+        left: 0%;
+        
+    }
+    .left_arr{
+        position: relative;
+        right: 25%;
+      
+    }
+    .video_link{
+        width: 100%;
+        height: 100%;
+        border-radius: 5%;
+    }
+    .video_link1{
+        width: 100%;
+        height: 100%;
+        border-radius: 15%;
+    }
+    .main_testimonial{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+        height: 580px;
+        left: 0px;
+        top: 5479px;
+        background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+        border: 1px solid #FFFFFF;
+    }
+    .testimonial_heading{
+        width: 100%;
+        height: 41px;
+        /* left: 828px; */
+        /* top: 5519px; */
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 41px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    .testimonials_video{
+        box-sizing: border-box;
+    
+    width: 520px;
+    height: 329px;
+    left: 331px;
+    top: 5590px;
+    
+    background: rgba(238, 238, 238, 0.18);
+    border: 2px solid #FEA800;
+    border-radius: 20px;
+    }
+    .testt{
+        display: grid;
+        
+    }
+    .testt1{
+        display: flex;
+    
+    }
+    .testimonial_playlist{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+        left: 158px;
+        top: 5590px;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px; 
+    }
+    .playlist_video{
+      width: 100%;  
+      height: 100%;
+      border-radius: 15%;
+    }
+    .playlist-container{
+        padding-left: 2%;
+    }
+    
+}
+@media screen and (min-width:2001px) and (max-width: 2159px) {
+    .main{
+        width: 100%;
+        height: 100%;
+    left: 0px;
+    top: 5479px;
+    
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border: 1px solid #FFFFFF;
+    }
+    iframe{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+        height: 100%;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        margin-bottom: 8%;
+    
+    }
+    .arrows {
+        position: relative;
+        right: 5%;
+        margin-bottom: 15%;
+    }
+    .testimonial_main{
+        text-align: center;
+    
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    margin-top: 4%;
+    }
+    .playlist_vid{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+     
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+      margin-left: 50%;
+        margin-bottom: 8%;
+    }
+    .div_video{
+        position: relative;
+        left: 0%; 
+    }
+    .comma_1{
+        position: relative;
+        bottom: 16%;
+        right: 8%;
+    
+    }
+    .comma_2{
+        position: relative;
+        left: 74%;
+        top: 5%;
+    }
+    .testi_data{
+        width: 690px;
+        height: 100%;
+        left: 1021px;
+        top: 5618px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        text-align: justify;
+        text-transform: capitalize;
+        margin-top: 6%;
+        color: #FFFFFF;
+    }
+    .video {
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 493px;
+        height: 304px;
+        /* left: 330px; */
+        /* top: 5590px; */
+        transform: perspective(800px) rotateY(20deg);
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px;
+        right: 2%;
+        position: relative;
+        margin-top: 4%;
+    }
+    .right_arr{
+        position: relative;
+        left: 0%;
+        
+    }
+    .left_arr{
+        position: relative;
+        right: 25%;
+      
+    }
+    .video_link{
+        width: 100%;
+        height: 100%;
+        border-radius: 5%;
+    }
+    .video_link1{
+        width: 100%;
+        height: 100%;
+        border-radius: 15%;
+    }
+    .main_testimonial{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 100%;
+        height: 580px;
+        left: 0px;
+        top: 5479px;
+        background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+        border: 1px solid #FFFFFF;
+    }
+    .testimonial_heading{
+        width: 100%;
+        height: 41px;
+        /* left: 828px; */
+        /* top: 5519px; */
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 41px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    .testimonials_video{
+        box-sizing: border-box;
+    
+    width: 520px;
+    height: 329px;
+    left: 331px;
+    top: 5590px;
+    
+    background: rgba(238, 238, 238, 0.18);
+    border: 2px solid #FEA800;
+    border-radius: 20px;
+    }
+    .testt{
+        display: grid;
+        
+    }
+    .testt1{
+        display: flex;
+    
+    }
+    .testimonial_playlist{
+        box-sizing: border-box;
+        /* position: absolute; */
+        width: 155px;
+        height: 97px;
+        left: 158px;
+        top: 5590px;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        border-radius: 20px; 
+    }
+    .playlist_video{
+      width: 100%;  
+      height: 100%;
+      border-radius: 15%;
+    }
+    .playlist-container{
+        padding-left: 2%;
+    }
+    
+}
+
+ @media screen and (min-width:2160px) and (max-width: 2560px) {
+    .main{
+        width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 5479px;
+    
+    background: linear-gradient(90deg, #003589 0%, #008FDF 100%);
+    border: 1px solid #FFFFFF;
+    }
+    .video_main{
+       width: 32%;
+    }
+    .testimonial_main{
+        width: 265px;
+        height: 41px;
+        
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 41px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        margin-bottom: 10%;
+        margin-top: 7%;
+        position: relative;
+        left: 17%;
+    }
+    .right_arr{   
+         position: relative;
+        left: 24%;
+    }
+    .arrows{
+        position: relative;
+        right: 20%;
+        margin-top: 8%;
+        margin-bottom: 8%;
+       
+    }
+    
+    .playlist_vid {
+        box-sizing: border-box;
+        margin-left: 35%;
+        width: 259px;
+        height: 192px;
+        background: rgba(238, 238, 238, 0.18);
+        border: 2px solid #FEA800;
+        margin-bottom: 5%;
+    }
+    iframe{
+        box-sizing: border-box;
+    
+    
+        width: 100%;
+        height: 100%;
+    background: rgba(238, 238, 238, 0.18);
+    border: 2px solid #FEA800;
+    
+    margin-bottom: 5%;
+    
+    }
+    .video_link{
+        height: 100%;
+        width: 100%;
+       
+    }
+    .video{
+        height: 98%;
+        width: 100%;
+    }
+    .testi_data {
+        width: 100%;
+        height: 100%;
+        left: 1021px;
+        top: 5618px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 45px;
+        text-align: justify;
+        text-transform: capitalize;
+        color: #FFFFFF;
+        
+    }
+    .testimonial_main {
+        width: 265px;
+        height: 41px;
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 49px;
+        position: relative;
+        left: 32%;
+        line-height: 41px;
+        text-align: end;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    
+    } 

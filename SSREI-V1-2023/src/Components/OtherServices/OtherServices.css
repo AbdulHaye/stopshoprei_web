@@ -1,0 +1,238 @@
+.mainotherservices {
+  background: linear-gradient(180deg, #00235a 0%, rgba(0, 67, 171, 0.83) 100%);
+  width: 100%;
+  height: 601px !important;
+  padding: 0px 0px;
+  margin: 0%;
+}
+@media screen and (max-width: 1440px) {
+  .mainotherservices {
+    background: linear-gradient(
+      180deg,
+      #00235a 0%,
+      rgba(0, 67, 171, 0.83) 100%
+    );
+    width: 100%;
+    height: 651px !important;
+    padding: 0px 0px;
+    margin: 0%;
+  }
+}
+.otherservices {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 55px;
+  text-align: center;
+
+  color: #ffffff !important;
+}
+
+@media screen and (max-width: 768px) {
+  .otherservices {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 650;
+    font-size: 35px;
+    line-height: 45px;
+    text-align: center;
+    color: #ffffff !important;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .otherservices {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+    color: #ffffff !important;
+  }
+}
+
+.flip-card2 {
+  background-color: transparent;
+  width: 155px;
+  height: 160px;
+  perspective: 1000px;
+  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}
+@media screen and (max-width: 1440px) {
+  .flip-card2 {
+    background-color: transparent;
+    width: 145px;
+    height: 159px;
+    perspective: 1000px;
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+  }
+}
+@media screen and (max-width: 1024px) {
+  .flip-card2 {
+    background-color: transparent;
+    width: 97px;
+    height: 115px;
+    perspective: 1000px;
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+  }
+}
+@media screen and (max-width: 768px) {
+  .flip-card2 {
+    background-color: transparent;
+    width: 65px;
+    height: 100px;
+    perspective: 1000px;
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+  }
+}
+.flip-card2-background {
+  position: absolute;
+
+  /*color of the main-background*/
+  top: 2px; /* equal to border thickness */
+  left: 2px; /* equal to border thickness */
+  width: 316px; /* container height - (border thickness * 2) */
+  height: 273.12px; /* container height - (border thickness * 2) */
+}
+.flip-card-inner2 {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.flip-card2:hover .flip-card-inner2 {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front2,
+.flip-card-back2 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.flip-card-front2 {
+  background: #ffffff;
+  color: black;
+  border-left: 2px solid #ff5000;
+  border-right: 2px solid #ff5000;
+}
+
+.flip-card-back2 {
+  color: white;
+  transform: rotateY(180deg);
+  border-radius: 15px;
+  background: #233e8c;
+  border: 2px solid #233e8c;
+  border: 2px solid #233e8c;
+  border-radius: 15px;
+}
+.frontpara {
+  font-family: "Jockey One";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 21px;
+  text-align: center;
+  padding: 0px 8px;
+  color: #233e8c;
+}
+
+.backpara {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 19px;
+  text-align: center;
+  text-transform: capitalize;
+  padding-top: 30%;
+  color: #ffffff;
+}
+
+.maincard {
+  position: relative;
+}
+
+.rowfirst {
+  position: absolute;
+  margin-top: 0% !important;
+  left: 8% !important;
+  width: 86% !important;
+}
+.rowsecond {
+  position: absolute;
+  margin-top: 10% !important;
+  left: 2% !important;
+  width: 98% !important;
+}
+
+.cardphoto {
+  width: 80px;
+  height: 70px;
+  margin-top: 20px;
+}
+@media screen and (max-width: 1024px) {
+  .cardphoto {
+    width: 60px;
+    height: 50px;
+    margin-top: 10px;
+  }
+  .frontpara {
+    font-family: "Jockey One";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 10px;
+    text-align: center;
+    padding: 0px 10px;
+    color: #233e8c;
+  }
+  .backpara {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 9px;
+    line-height: 12px;
+    text-align: center;
+    text-transform: capitalize;
+    padding-top: 30%;
+    color: #ffffff;
+  }
+}
+@media screen and (max-width: 768px) {
+  .cardphoto {
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+  }
+  .frontpara {
+    font-family: "Jockey One";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 8px;
+    line-height: 10px;
+    text-align: center;
+    padding: 0px 5px;
+    color: #233e8c;
+  }
+  .backpara {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 7px;
+    line-height: 9px;
+    text-align: center;
+    text-transform: capitalize;
+    padding-top: 30%;
+    color: #ffffff;
+  }
+}

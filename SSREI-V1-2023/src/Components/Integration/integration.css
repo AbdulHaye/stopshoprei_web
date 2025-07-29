@@ -1,0 +1,113 @@
+.brands_image {
+  width: 80%;
+  height: 60px;
+  padding: 0px 10px;
+}
+
+.brand_section_top {
+  margin: 0px 0px;
+  padding: 10px;
+  border: 0px solid #ebebeb;
+}
+.brands_arrow {
+  margin-top: -25px;
+  width: 10px;
+}
+/* .main_div {
+  margin: 0px;
+  padding: 0px;
+} */
+.brands{
+  box-sizing: border-box;
+  background: #FFFFFF;
+/* border: 6px solid #FF5000; */
+border-top:2px solid #FF5000;
+ border-bottom: 2px solid #FF5000;
+border-radius: 0px;
+padding: 0px;
+margin: 0px;
+/* height: 300px; */
+}
+
+.integration {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 55px;
+  text-align: center;
+
+  color: #FF5000;
+}
+
+
+@media screen and (max-width: 768px) {
+  .integration {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 650;
+    font-size: 35px;
+    line-height: 45px;
+    text-align: center;
+    color: #00235a;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .integration {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+    color: #00235a;
+  }
+}
+
+  @media screen and (max-width: 1440px) {
+    .brands_image {
+      width: 80%;
+      height: 60px;
+      padding: 0px 15px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .brands_image {
+    width: 80%;
+    height: 60px;
+    padding: 0px 20px;
+}
+.integration {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 55px;
+  text-align: center;
+  color: #FF5000;
+}
+}
+@media screen and (max-width: 1280px) {
+  .brands_image {
+    width: 80%;
+    height: 60px;
+    padding: 0px 20px;
+}
+}
+
+@media screen and (max-width: 2560px) {
+  .brands_image {
+    width: 90%;
+    height: 90px;
+    padding: 0px 10px;
+}
+}
+@media screen and (max-width: 2000px) {
+  .brands_image {
+    width: 70%;
+    height: 70px;
+    padding: 0px 10px;
+}
+}
